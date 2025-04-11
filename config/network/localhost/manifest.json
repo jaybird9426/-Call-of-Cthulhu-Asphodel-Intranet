@@ -2,10 +2,10 @@
     "day": "13",
     "month": "10",
     "year": "2798",
-    "serverAddress": "localhost",
-    "serverName": "Asphodel Station Public Terminal",
+    "serverAddress": "publicaccess",
+    "serverName": "Asphodel Station Public Access",
     "iconName": "Github-Octicons-Broadcast-16.512-invert.png",
-    "terminalID": "AS12",
+    "terminalID": "ASPUB",
     "defaultUser": {
         "userId": "user",
         "password": "",
