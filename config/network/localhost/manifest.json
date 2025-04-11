@@ -1,7 +1,7 @@
 {
     "serverAddress": "localhost",
     "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
+    "iconName": "Github-Octicons-Broadcast-16.512-invert.png",
     "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
