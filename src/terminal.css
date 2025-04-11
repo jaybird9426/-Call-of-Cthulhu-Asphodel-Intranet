@@ -141,7 +141,7 @@ body {
     clip: rect(42px, 9999px, 57px, 0);
   }
   35% {
-    clip: rect(11px, 9999px, 14px, 0);
+    clip: rect(11px, 9999px, 14px, 1);
   }
   40% {
     clip: rect(8px, 9999px, 61px, 0);
