@@ -106,7 +106,7 @@ body {
   width: 100%;
   font: inherit;
   border: none;
-  color: inherit;
+  color: #FFBF00;
 }
 .ls-files {
   column-width: 100px;
