@@ -452,10 +452,11 @@ system = {
         } );
     },
 
-    read( args ) {
+   read( args ) {
         return new Promise( ( resolve, reject ) => {
+            const messageList = mailList.filter( (mail) => mail.to.includes( userDatabase.userId ) );
             const mailIndex = Number( args[ 0 ] );
-            const mailAtIndex = mailList[ mailIndex ];
+            const mailAtIndex = messageList[ mailIndex ];
             if ( !mailAtIndex || !mailAtIndex.to.includes( userDatabase.userId ) ) {
                 reject( new InvalidMessageKeyError() );
                 return;
@@ -469,7 +470,7 @@ system = {
             resolve( message );
         } );
     },
-
+    
     ping( args ) {
         return new Promise( ( resolve, reject ) => {
             if ( args === "" ) {
