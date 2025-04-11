@@ -3,5 +3,10 @@
         "userId": "user",
         "password": "12345",
         "userName": "Public User"
+    },
+    {
+        "userId": "admin",
+        "password": "setecastronomy",
+        "userName": "System Admin"
     }
 ]
