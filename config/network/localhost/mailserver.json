@@ -3,6 +3,6 @@
         "from": "Station Administration",
         "to": ["user"],
         "title": "Public Service Announcement",
-        "body": "To all station personnel and guests,  We are aware of concerns expressed by some regarding strange phenomena occurring within certain sectors. Asphodel Station administration urges everyone to remain calm - the situation is being handled by our security team, and should be resolved within a matter of days. Until then, you can make security's job easier by engaging in safe practices as outlined in the Employee Safety Manual, available both in print and on public terminals. Thank you."
+        "body": "To all station personnel and guests,  We are aware of concerns expressed by some regarding strange phenomena occurring within certain sectors. Asphodel Station administration urges everyone to remain calm - the situation is being handled by our security team, and should be resolved within a matter of days. Until then, you can make security's job easier by engaging in safe practices as outlined in the Employee Safety Manual, available both in print and on public terminals.  Thank you."
     }
 ]
